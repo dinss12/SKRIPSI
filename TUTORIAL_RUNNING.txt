@@ -1,0 +1,5 @@
+1. Buka google colab dan file program (TEAAA.ipynb)
+2. Upload file.owl pada google colab
+3. Cari bot @NutritionChildrenBot pada telegram
+4. Run All program pada google colab
+5. Start bot telegram
